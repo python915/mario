@@ -45,5 +45,18 @@ public class Player : MonoBehaviour
         
     }
 
-    class PlayerMovement { }
+    class PlayerMovement 
+    {
+        private void Run()
+        {
+
+        }
+
+        private void Jump()
+        {
+
+        }
+    }
+
+    
 }
